@@ -1,1 +1,1 @@
-# Anomaly-Detection-on-Fundus-Photography-
+# Anomaly-Detection-on-Fundus-Photography
